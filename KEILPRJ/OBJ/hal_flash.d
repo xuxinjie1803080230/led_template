@@ -1,0 +1,10 @@
+.\obj\hal_flash.o: ..\Device\MM32SPIN06xx_s\HAL_Lib\Src\hal_flash.c
+.\obj\hal_flash.o: ..\Device\MM32SPIN06xx_s\HAL_Lib\Inc\hal_flash.h
+.\obj\hal_flash.o: ..\Device\MM32SPIN06xx_s\Include\types.h
+.\obj\hal_flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\hal_flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\hal_flash.o: ..\Device\MM32SPIN06xx_s\Include\reg_common.h
+.\obj\hal_flash.o: ..\Device\CMSIS\KEIL_Core\core_cm0.h
+.\obj\hal_flash.o: ..\Device\CMSIS\KEIL_Core\cmsis_compiler.h
+.\obj\hal_flash.o: ..\Device\CMSIS\KEIL_Core\cmsis_armcc.h
+.\obj\hal_flash.o: ..\Device\MM32SPIN06xx_s\Include\reg_flash.h

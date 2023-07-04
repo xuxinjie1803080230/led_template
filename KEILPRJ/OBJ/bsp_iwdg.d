@@ -1,0 +1,14 @@
+.\obj\bsp_iwdg.o: ..\USER\bsp_iwdg.c
+.\obj\bsp_iwdg.o: ..\USER\bsp_iwdg.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\HAL_Lib\Inc\hal_iwdg.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\Include\types.h
+.\obj\bsp_iwdg.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\bsp_iwdg.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\Include\reg_iwdg.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\Include\reg_common.h
+.\obj\bsp_iwdg.o: ..\Device\CMSIS\KEIL_Core\core_cm0.h
+.\obj\bsp_iwdg.o: ..\Device\CMSIS\KEIL_Core\cmsis_compiler.h
+.\obj\bsp_iwdg.o: ..\Device\CMSIS\KEIL_Core\cmsis_armcc.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\HAL_Lib\Inc\hal_rcc.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\Include\reg_adc.h
+.\obj\bsp_iwdg.o: ..\Device\MM32SPIN06xx_s\Include\reg_rcc.h
